@@ -1,0 +1,16 @@
+{
+  "name": "02-clima",
+  "version": "1.0.0",
+  "description": "\"Aplicación que usa apis para obtener el clima de una ciudad\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "request": "^2.88.2",
+    "yargs": "^16.1.0"
+  }
+}
